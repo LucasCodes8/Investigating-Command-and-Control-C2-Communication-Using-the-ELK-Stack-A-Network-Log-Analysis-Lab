@@ -50,6 +50,10 @@ This lab involves analyzing network connection logs to identify potential Comman
 
 The lab demonstrated effective use of the ELK Stack to identify and investigate C2 communications, emphasizing the importance of analyzing various network traffic patterns.
 
+## Full Write-Up
+
+For the complete write-up, please see the [full report here](https://github.com/LucasCodes8/Investigating-Command-and-Control-C2-Communication-Using-the-ELK-Stack-A-Network-Log-Analysis-Lab/blob/main/Investigating%20Command%20and%20Control%20(C2)%20Communication%20Using%20the%20ELK%20Stack_%20A%20Network%20Log%20Analysis%20Lab.pdf).
+
 ## References
 
 - [Elastic Stack Documentation](https://www.elastic.co/guide/index.html)
